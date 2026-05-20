@@ -13,5 +13,8 @@ namespace AcGridGeneratorUi
 
         // Path to Content Manager race grid presets
         public static string Presets { get; set; } = @"C:\Users\oculu\AppData\Local\AcTools Content Manager\Presets\Race Grids";
+
+        // Path to parameters.json
+        public static string ParametersJson { get; set; } = @"C:\Users\oculu\OneDrive\Documents\AC Championship\Rivals\parameters-test.json";
     }
 }
